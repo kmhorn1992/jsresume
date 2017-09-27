@@ -46,7 +46,7 @@ function displaySkills (mySkills, boolean) {
 }
 
 
-    //CALLING FUNCTIONS//
+    /*Calling Functions*/
 console.log('`````````````````````````')
 
 displayName();
